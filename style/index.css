@@ -1,0 +1,16 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+#caixao {
+  border: 1px solid black;
+  width: 450px;
+  margin: 20px;
+  margin-inline: auto;
+  height: 600px;
+}
+
+#foto {
+  background-color: pink;
+}
