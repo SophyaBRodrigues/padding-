@@ -6,9 +6,9 @@
 #caixao {
   border: 1px solid black;
   width: 450px;
-  margin: 7px;
+  margin: 9px;
   margin-inline: auto;
-  height: 600px;
+  height: 580px;
 }
 
 #foto {
@@ -34,4 +34,36 @@
   border: 0.96px solid black;
   height: 19px;
   margin-top: 15px;
+}
+
+#email {
+  border: 0.96px solid black;
+  height: 19px;
+  margin-top: 15px;
+}
+
+#p1 {
+  border: 0.96px solid black;
+  height: 19px;
+  margin-bottom: 40px;
+  margin-top: 15px;
+}
+
+#p2 {
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+.caixa {
+  border: 1px solid black;
+  margin-top: 15px;
+  height: 79px;
+  width: 80px;
+  padding: 4px;
+  display: inline-block;
+}
+
+footer {
+  border: 1px solid black;
+  margin: 10px 20px 30px 40px;
 }
