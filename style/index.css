@@ -6,11 +6,32 @@
 #caixao {
   border: 1px solid black;
   width: 450px;
-  margin: 20px;
+  margin: 7px;
   margin-inline: auto;
   height: 600px;
 }
 
 #foto {
-  background-color: pink;
+  border: 2px solid black;
+  width: 214px;
+  height: 220px;
+}
+
+#contato {
+  border: 2px solid black;
+  width: 172px;
+  height: 23px;
+  padding: 10px;
+  text-align: center;
+}
+
+#nome {
+  border: 0.96px solid black;
+  height: 19px;
+}
+
+#cargo {
+  border: 0.96px solid black;
+  height: 19px;
+  margin-top: 15px;
 }
