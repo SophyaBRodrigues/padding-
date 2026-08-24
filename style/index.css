@@ -54,14 +54,27 @@
   margin-top: 20px;
 }
 
-.caixa {
-  border: 1px solid black;
+
+.caixas {
   margin-top: 15px;
+}
+
+.caixas div {
   height: 79px;
   width: 80px;
   padding: 4px;
   display: inline-block;
+  border: 1px solid black;
 }
+
+.cx2 {
+  margin-left: -15px;
+}
+
+.cx {
+  margin-left: 1px;
+}
+
 
 footer {
   border: 1px solid black;
