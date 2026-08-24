@@ -8,13 +8,14 @@
   width: 450px;
   margin: 9px;
   margin-inline: auto;
-  height: 580px;
+  height: 590px;
 }
 
 #foto {
   border: 2px solid black;
   width: 214px;
   height: 220px;
+  padding: 9px;
 }
 
 #contato {
@@ -54,13 +55,12 @@
   margin-top: 20px;
 }
 
-
 .caixas {
   margin-top: 15px;
 }
 
 .caixas div {
-  height: 79px;
+  height: 70px;
   width: 80px;
   padding: 4px;
   display: inline-block;
@@ -68,13 +68,12 @@
 }
 
 .cx2 {
-  margin-left: -15px;
+  margin-left: -20px;
 }
 
 .cx {
   margin-left: 1px;
 }
-
 
 footer {
   border: 1px solid black;
